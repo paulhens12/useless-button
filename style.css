@@ -1,0 +1,68 @@
+body{
+    margin: 0%;
+    color: aqua;
+    background: url(https://wallpaperaccess.com/full/2834744.png);
+    text-transform: uppercase;
+    font-family: cursive;
+    text-align: center;
+}
+
+h1{
+    color: rgb(225, 233, 239);
+    opacity: 0.8;
+    text-align: center;
+}
+
+p{
+    margin-top: 50px;
+    height: 40px;
+    margin-left: 30px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    text-align: center;
+    background-color: rgb(56, 75, 86);
+    font-size: 20px;
+    border-radius: 10px;
+    color: rgb(225, 233, 239);
+    opacity: 0.6;
+}
+
+#button{
+    text-align: center;
+    margin-top: 100px;
+    height: 100px;
+    width: 100px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: cursive;
+    background-color: rgb(225, 233, 239);
+    color: rgb(56, 75, 86);
+    opacity: 0.8;
+    border-radius: 30px;
+    font-weight: 600;
+    border-color: black;
+}
+#button:active{
+    opacity: 1;
+    background-color: rgb(56, 75, 86);
+    color: rgb(225, 233, 239)
+}
+.clear{
+    color: white;
+    font-weight: 600;
+}
+#butt2{
+    margin-top: 30px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+    font-size: larger;
+    font-weight: 600;
+    color: white;
+    opacity: 0.5;
+}
+#butt2:active{
+    opacity: 1;
+}
